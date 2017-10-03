@@ -193,6 +193,10 @@ body.page-template-page-fullsingle-me {
     .bio a:hover {
       color: #FFFFFF;
       transition: 0.1s; }
+      .fa {
+        font-size: 35px;
+        color: white;
+    }
 
 .network {
   -webkit-box-flex: 1;
